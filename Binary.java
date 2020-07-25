@@ -20,8 +20,7 @@ public class Binary
         System.out.print(1);
         n -= v;
       }
-      v = v/2;
-      
+      v = v/2; 
     }
     System.out.println();
   }
